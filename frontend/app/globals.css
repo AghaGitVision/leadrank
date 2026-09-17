@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body {
+  background: #0E1420;
+  color: #E8EDF5;
+  font-feature-settings: "cv05", "cv11";
+}
+
+/* Scores sit in a column and must line up; everything numeric is tabular. */
+.num { font-variant-numeric: tabular-nums; }
+
+*:focus-visible {
+  outline: 2px solid #35B6E8;
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: #27334A; border-radius: 6px; }
+::-webkit-scrollbar-track { background: transparent; }

@@ -1,0 +1,6773 @@
+{
+ "ashworthbarrett.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+13180129137"
+  ],
+  "response_ms": 2118,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 3013,
+  "title": "Ashworth & Barrett Co. | Marketing"
+ },
+ "ashworthhvac.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 878,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3230,
+  "title": "Ashworth HVAC Inc | Hvac"
+ },
+ "ashworthsoftware.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13213363054"
+  ],
+  "response_ms": 149,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 8787,
+  "title": "Ashworth Software LLC | Software"
+ },
+ "ashworthtoussaint.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14365422350"
+  ],
+  "response_ms": 2593,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 7286,
+  "title": "Ashworth & Toussaint LLC | Real Estate"
+ },
+ "austincommercial.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": false,
+  "markers": [
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12232692436"
+  ],
+  "response_ms": 688,
+  "since_year": 2001,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 4398,
+  "title": "Austin Commercial Company Inc | Janitorial"
+ },
+ "austinlandscaping.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14695631307"
+  ],
+  "response_ms": 1105,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 4712,
+  "title": "Austin Landscaping Industries LLC | Landscaping"
+ },
+ "austinplumbing.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15333912618"
+  ],
+  "response_ms": 1295,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8197,
+  "title": "Austin Plumbing Services | Plumbing"
+ },
+ "austinroofing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+13013012758"
+  ],
+  "response_ms": 822,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 8943,
+  "title": "Austin Roofing Services | Roofing"
+ },
+ "austinthird.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1362,
+  "since_year": 1996,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6171,
+  "title": "Austin Third & Sons Inc | Logistics"
+ },
+ "barrettcastellanos.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 525,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 894,
+  "title": "Barrett & Castellanos Co. | Logistics"
+ },
+ "barrettdelgado.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12626725476"
+  ],
+  "response_ms": 1670,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 6112,
+  "title": "Barrett & Delgado LLC | Real Estate"
+ },
+ "barrettevent.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1033,
+  "since_year": 1984,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 4682,
+  "title": "Barrett Event | Events"
+ },
+ "barrettkellerman.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14885979588"
+  ],
+  "response_ms": 1467,
+  "since_year": null,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 7743,
+  "title": "Barrett & Kellerman | Real Estate"
+ },
+ "barrettmarchetti.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 460,
+  "since_year": 1991,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 1922,
+  "title": "Barrett & Marchetti Inc. | Real Estate"
+ },
+ "barrettprecision.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+12859801289"
+  ],
+  "response_ms": 1122,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 1872,
+  "title": "Barrett Precision Ltd | Machining"
+ },
+ "barretttoussaint.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16797170260"
+  ],
+  "response_ms": 1162,
+  "since_year": 1984,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1252,
+  "title": "Barrett & Toussaint Inc. | Pest Control"
+ },
+ "barrettwhitfield.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+19298848141"
+  ],
+  "response_ms": 1326,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 5193,
+  "title": "Barrett & Whitfield Ltd | Hvac"
+ },
+ "bhattidelgado.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 509,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 3736,
+  "title": "Bhatti & Delgado Inc. | Events"
+ },
+ "bhattielectrical.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1871,
+  "since_year": 1991,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 8320,
+  "title": "Bhatti Electrical Ltd | Electrical"
+ },
+ "bhattiivers.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+17059498382"
+  ],
+  "response_ms": 259,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 4358,
+  "title": "Bhatti & Ivers Ltd | Veterinary"
+ },
+ "bhattilandscaping.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 420,
+  "since_year": 2001,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics"
+  ],
+  "text_length": 6714,
+  "title": "Bhatti Landscaping LLC | Landscaping"
+ },
+ "bhattiprecision.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13774253062"
+  ],
+  "response_ms": 2549,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 4246,
+  "title": "Bhatti Precision Inc | Machining"
+ },
+ "bhattipruitt.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2096,
+  "since_year": 1972,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 5699,
+  "title": "Bhatti & Pruitt LLC | Marketing"
+ },
+ "bhattiwaste.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12649001648"
+  ],
+  "response_ms": 1300,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 4306,
+  "title": "Bhatti Waste Inc. | Waste"
+ },
+ "blueridge.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+19224342164"
+  ],
+  "response_ms": 1868,
+  "since_year": null,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2982,
+  "title": "Blue Ridge Real Inc. | Real Estate"
+ },
+ "cardinalcommercial.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18493026464"
+  ],
+  "response_ms": 205,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics"
+  ],
+  "text_length": 8312,
+  "title": "Cardinal Commercial Inc | Janitorial"
+ },
+ "cardinaldigital.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14765988079"
+  ],
+  "response_ms": 2411,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 4666,
+  "title": "Cardinal Digital Inc. | Marketing"
+ },
+ "cardinalevent.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17723404391"
+  ],
+  "response_ms": 860,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics"
+  ],
+  "text_length": 6481,
+  "title": "Cardinal Event LLC | Events"
+ },
+ "cardinalhvac.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2036,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 7322,
+  "title": "Cardinal HVAC LLC | Hvac"
+ },
+ "cardinalplumbing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 798,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 5523,
+  "title": "Cardinal Plumbing Co. | Plumbing"
+ },
+ "cardinalreal.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15981657735"
+  ],
+  "response_ms": 1246,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 2887,
+  "title": "Cardinal Real Co. | Real Estate"
+ },
+ "cardinalroofing.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1148,
+  "since_year": 2001,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8888,
+  "title": "Cardinal Roofing Ltd | Roofing"
+ },
+ "castellanosashworth.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 404,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 5875,
+  "title": "Castellanos & Ashworth Inc. | Machining"
+ },
+ "castellanosbhatti.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 913,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6745,
+  "title": "Castellanos & Bhatti LLC | Staffing"
+ },
+ "castellanosmarchetti.com": {
+  "status": "unreachable"
+ },
+ "charlottehvac.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16695868578"
+  ],
+  "response_ms": 2288,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 7010,
+  "title": "Charlotte HVAC Industries LLC | Hvac"
+ },
+ "charlotteroofing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15143930158"
+  ],
+  "response_ms": 1114,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 8536,
+  "title": "Charlotte Roofing Systems Co. | Roofing"
+ },
+ "charlottestaffing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+16265073944"
+  ],
+  "response_ms": 397,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 1279,
+  "title": "Charlotte Staffing Works Co. | Staffing"
+ },
+ "charlottewaste.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17110033381"
+  ],
+  "response_ms": 604,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 6488,
+  "title": "Charlotte Waste Contractors Inc | Waste"
+ },
+ "clevelandaccounting.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1017,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8376,
+  "title": "Cleveland Accounting Services | Accounting"
+ },
+ "columbusdental.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1075,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 2471,
+  "title": "Columbus Dental & Sons LLC | Dental"
+ },
+ "columbusprecision.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15808057003"
+  ],
+  "response_ms": 1350,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 815,
+  "title": "Columbus Precision Company | Machining"
+ },
+ "columbussoftware.com": {
+  "status": "unreachable"
+ },
+ "coyleashworth.com": {
+  "status": "unreachable"
+ },
+ "coyleauto.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+19383446762"
+  ],
+  "response_ms": 1709,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1941,
+  "title": "Coyle Auto Inc. | Auto Repair"
+ },
+ "coylecommercial.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12527558137"
+  ],
+  "response_ms": 299,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 3107,
+  "title": "Coyle Commercial Ltd | Janitorial"
+ },
+ "coyleelectrical.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1664,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 1387,
+  "title": "Coyle Electrical | Electrical"
+ },
+ "coyleferraro.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14255144490"
+  ],
+  "response_ms": 2032,
+  "since_year": null,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 1502,
+  "title": "Coyle & Ferraro LLC | Janitorial"
+ },
+ "coyleprecision.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1776,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 6560,
+  "title": "Coyle Precision Ltd | Machining"
+ },
+ "dallaselectrical.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+19723425666"
+  ],
+  "response_ms": 746,
+  "since_year": 2001,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 2724,
+  "title": "Dallas Electrical Industries | Electrical"
+ },
+ "dallasevent.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12538435481"
+  ],
+  "response_ms": 891,
+  "since_year": 1984,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 1318,
+  "title": "Dallas Event Partners Ltd | Events"
+ },
+ "dallasmetal.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 415,
+  "since_year": 1972,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1198,
+  "title": "Dallas Metal Contractors LLC | Fabrication"
+ },
+ "dallasprecision.com": {
+  "status": "unreachable"
+ },
+ "dallasstaffing.com": {
+  "status": "blocked"
+ },
+ "delgadoashworth.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2161,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 5331,
+  "title": "Delgado & Ashworth Inc | Staffing"
+ },
+ "delgadobarrett.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1423,
+  "since_year": 1991,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3030,
+  "title": "Delgado & Barrett LLC | Electrical"
+ },
+ "delgadodental.com": {
+  "status": "unreachable"
+ },
+ "delgadoferraro.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 572,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 7578,
+  "title": "Delgado & Ferraro | Auto Repair"
+ },
+ "delgadovasquez.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1095,
+  "since_year": 1996,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 5508,
+  "title": "Delgado & Vasquez Ltd | Software"
+ },
+ "delgadowaste.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+15456822151"
+  ],
+  "response_ms": 2148,
+  "since_year": 2021,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 5740,
+  "title": "Delgado Waste Inc. | Waste"
+ },
+ "denverreal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+19870945999"
+  ],
+  "response_ms": 660,
+  "since_year": 2017,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 1205,
+  "title": "Denver Real Services Ltd | Real Estate"
+ },
+ "denversoftware.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14337887399"
+  ],
+  "response_ms": 555,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 1716,
+  "title": "Denver Software Partners Co. | Software"
+ },
+ "denverstaffing.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1017,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 8343,
+  "title": "Denver Staffing & Sons Co. | Staffing"
+ },
+ "denverveterinary.com": {
+  "status": "timeout"
+ },
+ "ferrarobhatti.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 997,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 3106,
+  "title": "Ferraro & Bhatti Ltd | Logistics"
+ },
+ "ferrarohalloran.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14678259565"
+  ],
+  "response_ms": 2547,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 1201,
+  "title": "Ferraro & Halloran Ltd | Software"
+ },
+ "ferrarotoussaint.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1886,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1513,
+  "title": "Ferraro & Toussaint Inc. | Roofing"
+ },
+ "granitedigital.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2284,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 7690,
+  "title": "Granite Digital LLC | Marketing"
+ },
+ "granitehvac.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 429,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 4589,
+  "title": "Granite HVAC Inc | Hvac"
+ },
+ "granitepest.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12750183102"
+  ],
+  "response_ms": 1738,
+  "since_year": 2001,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 8837,
+  "title": "Granite Pest Inc. | Pest Control"
+ },
+ "graniteplumbing.com": {
+  "status": "unreachable"
+ },
+ "graniteroofing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17234488222"
+  ],
+  "response_ms": 490,
+  "since_year": 2001,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 753,
+  "title": "Granite Roofing Inc. | Roofing"
+ },
+ "granitethird.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1742,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 6183,
+  "title": "Granite Third LLC | Logistics"
+ },
+ "halloranaccounting.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1657,
+  "since_year": 2013,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 3306,
+  "title": "Halloran Accounting Co. | Accounting"
+ },
+ "halloranauto.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13725124500"
+  ],
+  "response_ms": 633,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 6794,
+  "title": "Halloran Auto Inc. | Auto Repair"
+ },
+ "halloranivers.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1995,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 8348,
+  "title": "Halloran & Ivers LLC | Marketing"
+ },
+ "hallorannakamura.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14320554196"
+  ],
+  "response_ms": 120,
+  "since_year": 2001,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 3659,
+  "title": "Halloran & Nakamura Inc. | Pest Control"
+ },
+ "halloranthird.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12940701582"
+  ],
+  "response_ms": 134,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 7923,
+  "title": "Halloran Third LLC | Logistics"
+ },
+ "harborevent.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1417,
+  "since_year": 2001,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 4461,
+  "title": "Harbor Event Inc | Events"
+ },
+ "harborhvac.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14133418714"
+  ],
+  "response_ms": 1921,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 4669,
+  "title": "Harbor HVAC Inc | Hvac"
+ },
+ "harbormetal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14222531596"
+  ],
+  "response_ms": 2526,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 1725,
+  "title": "Harbor Metal Inc. | Fabrication"
+ },
+ "harborprecision.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13497405649"
+  ],
+  "response_ms": 1756,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 1871,
+  "title": "Harbor Precision Co. | Machining"
+ },
+ "houstonauto.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13299762337"
+  ],
+  "response_ms": 1904,
+  "since_year": 2004,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3636,
+  "title": "Houston Auto Solutions Inc. | Auto Repair"
+ },
+ "houstondental.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12408241878"
+  ],
+  "response_ms": 1058,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 2097,
+  "title": "Houston Dental Group Inc. | Dental"
+ },
+ "houstonwaste.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 2446,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 1654,
+  "title": "Houston Waste Systems Inc. | Waste"
+ },
+ "indianapolisaccounting.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1410,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 4113,
+  "title": "Indianapolis Accounting Group Inc | Accounting"
+ },
+ "indianapolisauto.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 981,
+  "since_year": 1984,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3260,
+  "title": "Indianapolis Auto & Sons | Auto Repair"
+ },
+ "indianapolisreal.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1727,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 2543,
+  "title": "Indianapolis Real Industries Inc | Real Estate"
+ },
+ "indianapolisroofing.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17021968916"
+  ],
+  "response_ms": 1024,
+  "since_year": 2021,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 7993,
+  "title": "Indianapolis Roofing Solutions Inc. | Roofing"
+ },
+ "indianapolissoftware.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1286,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 2670,
+  "title": "Indianapolis Software Works Inc | Software"
+ },
+ "indianapolisstaffing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1955,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 3920,
+  "title": "Indianapolis Staffing Works Co. | Staffing"
+ },
+ "ironwoodaccounting.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15325269718"
+  ],
+  "response_ms": 1927,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 3257,
+  "title": "Ironwood Accounting Ltd | Accounting"
+ },
+ "ironwoodauto.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1235,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 5750,
+  "title": "Ironwood Auto Inc. | Auto Repair"
+ },
+ "ironwoodpest.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+16450846162"
+  ],
+  "response_ms": 1436,
+  "since_year": 1991,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics"
+  ],
+  "text_length": 5875,
+  "title": "Ironwood Pest Co. | Pest Control"
+ },
+ "ironwoodplumbing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 2477,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 942,
+  "title": "Ironwood Plumbing Inc. | Plumbing"
+ },
+ "ironwoodprecision.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+12520836596"
+  ],
+  "response_ms": 2432,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 687,
+  "title": "Ironwood Precision | Machining"
+ },
+ "ironwoodsoftware.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18611434794"
+  ],
+  "response_ms": 857,
+  "since_year": 1991,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1050,
+  "title": "Ironwood Software Co. | Software"
+ },
+ "ironwoodstaffing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1882,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 5607,
+  "title": "Ironwood Staffing Co. | Staffing"
+ },
+ "ironwoodwaste.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 2221,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2534,
+  "title": "Ironwood Waste | Waste"
+ },
+ "iversashworth.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12438155284"
+  ],
+  "response_ms": 1610,
+  "since_year": 1996,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 3132,
+  "title": "Ivers & Ashworth Inc. | Auto Repair"
+ },
+ "iversbhatti.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1644,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 8305,
+  "title": "Ivers & Bhatti Ltd | Electrical"
+ },
+ "iverscommercial.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17679233885"
+  ],
+  "response_ms": 1625,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 6781,
+  "title": "Ivers Commercial LLC | Janitorial"
+ },
+ "iversdental.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 2517,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 7514,
+  "title": "Ivers Dental Ltd | Dental"
+ },
+ "iversnakamura.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+18731001396"
+  ],
+  "response_ms": 1413,
+  "since_year": null,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 2383,
+  "title": "Ivers & Nakamura | Real Estate"
+ },
+ "iversrenner.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+19024381121"
+  ],
+  "response_ms": 1356,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 8162,
+  "title": "Ivers & Renner Inc. | Electrical"
+ },
+ "iversroofing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15067248564"
+  ],
+  "response_ms": 861,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 2820,
+  "title": "Ivers Roofing Inc. | Roofing"
+ },
+ "iversthird.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1628,
+  "since_year": 1996,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3459,
+  "title": "Ivers Third LLC | Logistics"
+ },
+ "iverswaste.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1848,
+  "since_year": 1984,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 4484,
+  "title": "Ivers Waste Inc | Waste"
+ },
+ "kansascity.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14020824165"
+  ],
+  "response_ms": 1507,
+  "since_year": 1984,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 5031,
+  "title": "Kansas City Veterinary Systems | Veterinary"
+ },
+ "kellermanauto.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 373,
+  "since_year": 1972,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 724,
+  "title": "Kellerman Auto Ltd | Auto Repair"
+ },
+ "kellermancommercial.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2401,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6728,
+  "title": "Kellerman Commercial Co. | Janitorial"
+ },
+ "kellermandental.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13559937450"
+  ],
+  "response_ms": 166,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 1504,
+  "title": "Kellerman Dental LLC | Dental"
+ },
+ "kellermandigital.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17961812657"
+  ],
+  "response_ms": 2519,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 1969,
+  "title": "Kellerman Digital | Marketing"
+ },
+ "kellermanhvac.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2244,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 4295,
+  "title": "Kellerman HVAC | Hvac"
+ },
+ "kellermanlandscaping.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16159705689"
+  ],
+  "response_ms": 1373,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 2387,
+  "title": "Kellerman Landscaping | Landscaping"
+ },
+ "kellermanlindqvist.com": {
+  "status": "unreachable"
+ },
+ "kellermanmuldoon.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 385,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 2279,
+  "title": "Kellerman & Muldoon LLC | Fabrication"
+ },
+ "kellermanokonkwo.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "booking",
+   "family_owned",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14931287745"
+  ],
+  "response_ms": 2138,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 5372,
+  "title": "Kellerman & Okonkwo Co. | Machining"
+ },
+ "kellermanprecision.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17871044090"
+  ],
+  "response_ms": 1082,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 5411,
+  "title": "Kellerman Precision Co. | Machining"
+ },
+ "kellermanwhitfield.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 298,
+  "since_year": 2004,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6728,
+  "title": "Kellerman & Whitfield LLC | Plumbing"
+ },
+ "lindqvistpest.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18155190890"
+  ],
+  "response_ms": 1820,
+  "since_year": 2004,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 3702,
+  "title": "Lindqvist Pest | Pest Control"
+ },
+ "lindqvistreal.com": {
+  "status": "timeout"
+ },
+ "manchesterevent.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14718246366"
+  ],
+  "response_ms": 922,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 3942,
+  "title": "Manchester Event Works | Events"
+ },
+ "manchestermetal.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 672,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 8059,
+  "title": "Manchester Metal Systems Inc | Fabrication"
+ },
+ "manchesterprecision.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12923392513"
+  ],
+  "response_ms": 2384,
+  "since_year": 1984,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6878,
+  "title": "Manchester Precision Company Co. | Machining"
+ },
+ "manchesterreal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15619709459"
+  ],
+  "response_ms": 1553,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2892,
+  "title": "Manchester Real Solutions Ltd | Real Estate"
+ },
+ "manchesterthird.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1197,
+  "since_year": 1996,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 4520,
+  "title": "Manchester Third Partners Ltd | Logistics"
+ },
+ "marchettiaccounting.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12516352429"
+  ],
+  "response_ms": 293,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 1551,
+  "title": "Marchetti Accounting LLC | Accounting"
+ },
+ "marchettibhatti.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 535,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8244,
+  "title": "Marchetti & Bhatti Co. | Marketing"
+ },
+ "marchettidigital.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 413,
+  "since_year": 1991,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 3161,
+  "title": "Marchetti Digital Ltd | Marketing"
+ },
+ "marchettipruitt.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+13450104321"
+  ],
+  "response_ms": 2174,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1525,
+  "title": "Marchetti & Pruitt Inc | Dental"
+ },
+ "marchettirenner.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14342231510"
+  ],
+  "response_ms": 313,
+  "since_year": 1996,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 7088,
+  "title": "Marchetti & Renner Ltd | Janitorial"
+ },
+ "marchettistaffing.com": {
+  "status": "unreachable"
+ },
+ "marchettiveterinary.com": {
+  "status": "unreachable"
+ },
+ "marchettiwhitfield.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+18499590777"
+  ],
+  "response_ms": 1442,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2376,
+  "title": "Marchetti & Whitfield LLC | Landscaping"
+ },
+ "milwaukeedental.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+19482615224"
+  ],
+  "response_ms": 1943,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 5732,
+  "title": "Milwaukee Dental Group LLC | Dental"
+ },
+ "milwaukeeelectrical.com": {
+  "status": "blocked"
+ },
+ "milwaukeereal.com": {
+  "status": "unreachable"
+ },
+ "milwaukeestaffing.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 629,
+  "since_year": 2017,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 6678,
+  "title": "Milwaukee Staffing Partners | Staffing"
+ },
+ "milwaukeeveterinary.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 349,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 7052,
+  "title": "Milwaukee Veterinary & Sons Inc. | Veterinary"
+ },
+ "muldoonashworth.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2101,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 1586,
+  "title": "Muldoon & Ashworth Inc | Roofing"
+ },
+ "muldoonauto.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16617216114"
+  ],
+  "response_ms": 1817,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 2750,
+  "title": "Muldoon Auto Inc | Auto Repair"
+ },
+ "nakamuraashworth.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18240444941"
+  ],
+  "response_ms": 891,
+  "since_year": 1996,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6253,
+  "title": "Nakamura & Ashworth Ltd | Real Estate"
+ },
+ "nakamuraauto.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1346,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 5304,
+  "title": "Nakamura Auto Ltd | Auto Repair"
+ },
+ "nakamurabarrett.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+16053505784"
+  ],
+  "response_ms": 253,
+  "since_year": 2021,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 5705,
+  "title": "Nakamura & Barrett Co. | Waste"
+ },
+ "nakamuracoyle.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14703203991"
+  ],
+  "response_ms": 1075,
+  "since_year": 1972,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 1076,
+  "title": "Nakamura & Coyle Co. | Auto Repair"
+ },
+ "nakamuradental.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17840876454"
+  ],
+  "response_ms": 1335,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 4991,
+  "title": "Nakamura Dental Inc. | Dental"
+ },
+ "nakamuraevent.com": {
+  "status": "timeout"
+ },
+ "nakamurapest.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+19889806931"
+  ],
+  "response_ms": 1599,
+  "since_year": 1984,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 3351,
+  "title": "Nakamura Pest Ltd | Pest Control"
+ },
+ "nakamurapruitt.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+16015562420"
+  ],
+  "response_ms": 2492,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 8542,
+  "title": "Nakamura & Pruitt Co. | Dental"
+ },
+ "nakamuraroofing.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15197561376"
+  ],
+  "response_ms": 1320,
+  "since_year": 2004,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 7400,
+  "title": "Nakamura Roofing LLC | Roofing"
+ },
+ "nakamuraveterinary.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+16877695285"
+  ],
+  "response_ms": 1624,
+  "since_year": 1972,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 4189,
+  "title": "Nakamura Veterinary Co. | Veterinary"
+ },
+ "nakamurawhitfield.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15648607350"
+  ],
+  "response_ms": 1729,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 6282,
+  "title": "Nakamura & Whitfield LLC | Hvac"
+ },
+ "nashvillemetal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1407,
+  "since_year": 2017,
+  "socials": [
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 6635,
+  "title": "Nashville Metal Partners Inc. | Fabrication"
+ },
+ "nashvilleprecision.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12500754943"
+  ],
+  "response_ms": 1233,
+  "since_year": 1972,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 5736,
+  "title": "Nashville Precision Industries | Machining"
+ },
+ "nashvillesoftware.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 286,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 7533,
+  "title": "Nashville Software Systems Ltd | Software"
+ },
+ "ngoaccounting.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18214391452"
+  ],
+  "response_ms": 486,
+  "since_year": 1996,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 4569,
+  "title": "Ngo Accounting Ltd | Accounting"
+ },
+ "ngobhatti.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1624,
+  "since_year": 2004,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 804,
+  "title": "Ngo & Bhatti Co. | Fabrication"
+ },
+ "ngodelgado.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 923,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 5598,
+  "title": "Ngo & Delgado Inc | Landscaping"
+ },
+ "ngoevent.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1107,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 6985,
+  "title": "Ngo Event LLC | Events"
+ },
+ "ngohalloran.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 530,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 6725,
+  "title": "Ngo & Halloran Ltd | Accounting"
+ },
+ "ngorenner.com": {
+  "status": "unreachable"
+ },
+ "ngoroofing.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16666336507"
+  ],
+  "response_ms": 2453,
+  "since_year": null,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6719,
+  "title": "Ngo Roofing Co. | Roofing"
+ },
+ "okonkwoivers.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+19166212611"
+  ],
+  "response_ms": 1011,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 1523,
+  "title": "Okonkwo & Ivers Inc. | Staffing"
+ },
+ "okonkwometal.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+12856690955"
+  ],
+  "response_ms": 998,
+  "since_year": 2013,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 6659,
+  "title": "Okonkwo Metal LLC | Fabrication"
+ },
+ "okonkwopest.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+17721721899"
+  ],
+  "response_ms": 1131,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2736,
+  "title": "Okonkwo Pest | Pest Control"
+ },
+ "okonkwowhitfield.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14905230848"
+  ],
+  "response_ms": 2483,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 3493,
+  "title": "Okonkwo & Whitfield LLC | Software"
+ },
+ "orlandoaccounting.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17791378448"
+  ],
+  "response_ms": 1609,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 5026,
+  "title": "Orlando Accounting Contractors | Accounting"
+ },
+ "orlandodental.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+16583436930"
+  ],
+  "response_ms": 2089,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 5078,
+  "title": "Orlando Dental Solutions | Dental"
+ },
+ "orlandodigital.com": {
+  "status": "timeout"
+ },
+ "orlandoelectrical.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+15420164723"
+  ],
+  "response_ms": 1899,
+  "since_year": 1972,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 8958,
+  "title": "Orlando Electrical Group Inc | Electrical"
+ },
+ "orlandoevent.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14229491761"
+  ],
+  "response_ms": 707,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 7359,
+  "title": "Orlando Event Partners LLC | Events"
+ },
+ "orlandoveterinary.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12595656186"
+  ],
+  "response_ms": 1093,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 4788,
+  "title": "Orlando Veterinary Contractors Ltd | Veterinary"
+ },
+ "phoenixdental.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2227,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 1464,
+  "title": "Phoenix Dental & Sons Co. | Dental"
+ },
+ "phoenixelectrical.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2560,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 8906,
+  "title": "Phoenix Electrical Services Inc. | Electrical"
+ },
+ "phoenixevent.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1249,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 5361,
+  "title": "Phoenix Event Company Ltd | Events"
+ },
+ "phoenixprecision.com": {
+  "status": "timeout"
+ },
+ "portlandpest.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+16559637785"
+  ],
+  "response_ms": 679,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 6969,
+  "title": "Portland Pest & Sons LLC | Pest Control"
+ },
+ "portlandplumbing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15875416552"
+  ],
+  "response_ms": 363,
+  "since_year": 1972,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 2156,
+  "title": "Portland Plumbing Partners Inc | Plumbing"
+ },
+ "pruittdigital.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1620,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 5476,
+  "title": "Pruitt Digital | Marketing"
+ },
+ "pruittnakamura.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+18026442365"
+  ],
+  "response_ms": 1716,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 6297,
+  "title": "Pruitt & Nakamura Ltd | Plumbing"
+ },
+ "pruittpruitt.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2423,
+  "since_year": 2021,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 6397,
+  "title": "Pruitt & Pruitt LLC | Staffing"
+ },
+ "pruittreal.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13835000997"
+  ],
+  "response_ms": 745,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 5916,
+  "title": "Pruitt Real Inc. | Real Estate"
+ },
+ "pruittstanek.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14882168189"
+  ],
+  "response_ms": 778,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 3636,
+  "title": "Pruitt & Stanek | Hvac"
+ },
+ "raleighdigital.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 602,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 2443,
+  "title": "Raleigh Digital & Sons LLC | Marketing"
+ },
+ "raleighhvac.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 611,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 7302,
+  "title": "Raleigh HVAC Systems Co. | Hvac"
+ },
+ "raleighpest.com": {
+  "status": "timeout"
+ },
+ "rennerashworth.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1560,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 7176,
+  "title": "Renner & Ashworth Ltd | Machining"
+ },
+ "rennerdelgado.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+17222326638"
+  ],
+  "response_ms": 2530,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 8195,
+  "title": "Renner & Delgado Inc. | Auto Repair"
+ },
+ "rennerdigital.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2221,
+  "since_year": null,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6472,
+  "title": "Renner Digital Inc | Marketing"
+ },
+ "rennerpruitt.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 513,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 7326,
+  "title": "Renner & Pruitt Co. | Machining"
+ },
+ "rennervasquez.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14195416973"
+  ],
+  "response_ms": 948,
+  "since_year": 2001,
+  "socials": [],
+  "status": "ok",
+  "tech": [],
+  "text_length": 3225,
+  "title": "Renner & Vasquez Ltd | Roofing"
+ },
+ "rennerwaste.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14503590508"
+  ],
+  "response_ms": 468,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 6570,
+  "title": "Renner Waste Co. | Waste"
+ },
+ "riversideauto.com": {
+  "status": "unreachable"
+ },
+ "riversideevent.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1947,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 4472,
+  "title": "Riverside Event Inc. | Events"
+ },
+ "riversidehvac.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+12247507447"
+  ],
+  "response_ms": 2012,
+  "since_year": 2001,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8640,
+  "title": "Riverside HVAC LLC | Hvac"
+ },
+ "riversidepest.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 489,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 4621,
+  "title": "Riverside Pest Inc. | Pest Control"
+ },
+ "riversideplumbing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16528314004"
+  ],
+  "response_ms": 1842,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 2133,
+  "title": "Riverside Plumbing Inc. | Plumbing"
+ },
+ "riversidereal.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 1882,
+  "since_year": null,
+  "socials": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 4203,
+  "title": "Riverside Real Ltd | Real Estate"
+ },
+ "riversidesoftware.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+15491540246"
+  ],
+  "response_ms": 2314,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify"
+  ],
+  "text_length": 4007,
+  "title": "Riverside Software LLC | Software"
+ },
+ "riversidethird.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+19844861948"
+  ],
+  "response_ms": 2376,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 8025,
+  "title": "Riverside Third Co. | Logistics"
+ },
+ "sacramentoelectrical.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 810,
+  "since_year": 2009,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 8248,
+  "title": "Sacramento Electrical Systems LLC | Electrical"
+ },
+ "sacramentoevent.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17404253666"
+  ],
+  "response_ms": 2497,
+  "since_year": 1984,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 7919,
+  "title": "Sacramento Event Group Inc | Events"
+ },
+ "sacramentostaffing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+17392458230"
+  ],
+  "response_ms": 2230,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 1417,
+  "title": "Sacramento Staffing Solutions LLC | Staffing"
+ },
+ "silverlinecommercial.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 399,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 788,
+  "title": "Silverline Commercial Inc | Janitorial"
+ },
+ "silverlineelectrical.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 2147,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 7373,
+  "title": "Silverline Electrical Co. | Electrical"
+ },
+ "silverlinelandscaping.com": {
+  "status": "unreachable"
+ },
+ "silverlineplumbing.com": {
+  "status": "unreachable"
+ },
+ "silverlineprecision.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+18340018926"
+  ],
+  "response_ms": 2008,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 3427,
+  "title": "Silverline Precision Inc | Machining"
+ },
+ "silverlinesoftware.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+16466058498"
+  ],
+  "response_ms": 2275,
+  "since_year": 1996,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 7016,
+  "title": "Silverline Software Ltd | Software"
+ },
+ "silverlineveterinary.com": {
+  "status": "blocked"
+ },
+ "silverlinewaste.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "pe_backed",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13272798042"
+  ],
+  "response_ms": 729,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 1221,
+  "title": "Silverline Waste Ltd | Waste"
+ },
+ "stanekcastellanos.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+13291973394"
+  ],
+  "response_ms": 2479,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "webflow"
+  ],
+  "text_length": 5843,
+  "title": "Stanek & Castellanos Inc | Logistics"
+ },
+ "stanekdelgado.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+18046638770"
+  ],
+  "response_ms": 750,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 4803,
+  "title": "Stanek & Delgado Co. | Landscaping"
+ },
+ "stanekferraro.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+15410176448"
+  ],
+  "response_ms": 507,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 6601,
+  "title": "Stanek & Ferraro Ltd | Roofing"
+ },
+ "staneklandscaping.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14992862839"
+  ],
+  "response_ms": 2130,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 718,
+  "title": "Stanek Landscaping Inc. | Landscaping"
+ },
+ "stanekmetal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 1080,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 5926,
+  "title": "Stanek Metal Inc. | Fabrication"
+ },
+ "stanekmuldoon.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 718,
+  "since_year": 1991,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 3448,
+  "title": "Stanek & Muldoon LLC | Pest Control"
+ },
+ "stanekokonkwo.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 612,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 2363,
+  "title": "Stanek & Okonkwo | Waste"
+ },
+ "stanekreal.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+17166995596"
+  ],
+  "response_ms": 604,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 3375,
+  "title": "Stanek Real Co. | Real Estate"
+ },
+ "stanekstaffing.com": {
+  "copyright_year": 2020,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+16054320037"
+  ],
+  "response_ms": 1918,
+  "since_year": 1972,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 6336,
+  "title": "Stanek Staffing Inc. | Staffing"
+ },
+ "stanektoussaint.com": {
+  "status": "unreachable"
+ },
+ "stanekvasquez.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": true,
+  "has_contact_form": false,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+19891069647"
+  ],
+  "response_ms": 533,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 6885,
+  "title": "Stanek & Vasquez | Events"
+ },
+ "stanekwhitfield.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2107,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 1706,
+  "title": "Stanek & Whitfield Inc. | Waste"
+ },
+ "summithvac.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [],
+  "response_ms": 398,
+  "since_year": null,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 2508,
+  "title": "Summit HVAC Co. | Hvac"
+ },
+ "summitmetal.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+13731624317"
+  ],
+  "response_ms": 418,
+  "since_year": 1996,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 1874,
+  "title": "Summit Metal | Fabrication"
+ },
+ "tampaevent.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+18404703837"
+  ],
+  "response_ms": 2526,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 7609,
+  "title": "Tampa Event Works Inc. | Events"
+ },
+ "tampalandscaping.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12604077115"
+  ],
+  "response_ms": 960,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 4889,
+  "title": "Tampa Landscaping & Sons Ltd | Landscaping"
+ },
+ "tamparoofing.com": {
+  "copyright_year": 2016,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+15646358954"
+  ],
+  "response_ms": 1193,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 8116,
+  "title": "Tampa Roofing & Sons Inc. | Roofing"
+ },
+ "torontoelectrical.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+19787149495"
+  ],
+  "response_ms": 2261,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 1873,
+  "title": "Toronto Electrical Industries | Electrical"
+ },
+ "torontolandscaping.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+17158797803"
+  ],
+  "response_ms": 1288,
+  "since_year": null,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 5957,
+  "title": "Toronto Landscaping Group Inc. | Landscaping"
+ },
+ "torontoplumbing.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+18172004534"
+  ],
+  "response_ms": 1802,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 2854,
+  "title": "Toronto Plumbing Company Ltd | Plumbing"
+ },
+ "torontoroofing.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+14718490679"
+  ],
+  "response_ms": 1320,
+  "since_year": null,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 3124,
+  "title": "Toronto Roofing Works Inc. | Roofing"
+ },
+ "toussaintauto.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 3,
+  "phones": [
+   "+12777758874"
+  ],
+  "response_ms": 189,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react",
+   "shopify"
+  ],
+  "text_length": 1851,
+  "title": "Toussaint Auto Co. | Auto Repair"
+ },
+ "toussaintbhatti.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 1798,
+  "since_year": 1991,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [],
+  "text_length": 8660,
+  "title": "Toussaint & Bhatti | Pest Control"
+ },
+ "toussaintdelgado.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16415510707"
+  ],
+  "response_ms": 1140,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 7017,
+  "title": "Toussaint & Delgado Co. | Staffing"
+ },
+ "toussaintrenner.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13725044833"
+  ],
+  "response_ms": 1662,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 7481,
+  "title": "Toussaint & Renner Inc. | Software"
+ },
+ "toussaintveterinary.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+14496274632"
+  ],
+  "response_ms": 2406,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 8801,
+  "title": "Toussaint Veterinary | Veterinary"
+ },
+ "tucsonaccounting.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+15142203676"
+  ],
+  "response_ms": 901,
+  "since_year": 2004,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot"
+  ],
+  "text_length": 2055,
+  "title": "Tucson Accounting Partners Ltd | Accounting"
+ },
+ "tucsonroofing.com": {
+  "status": "unreachable"
+ },
+ "vasquezcastellanos.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14111136929"
+  ],
+  "response_ms": 1144,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 6265,
+  "title": "Vasquez & Castellanos Inc | Janitorial"
+ },
+ "vasquezlandscaping.com": {
+  "status": "unreachable"
+ },
+ "vasquezmarchetti.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14656194784"
+  ],
+  "response_ms": 2031,
+  "since_year": null,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "shopify",
+   "webflow"
+  ],
+  "text_length": 5286,
+  "title": "Vasquez & Marchetti Inc. | Veterinary"
+ },
+ "vasquezplumbing.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12881031958"
+  ],
+  "response_ms": 1086,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 848,
+  "title": "Vasquez Plumbing | Plumbing"
+ },
+ "vasquezstanek.com": {
+  "copyright_year": 2022,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13878418784"
+  ],
+  "response_ms": 2013,
+  "since_year": 2001,
+  "socials": [],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 4784,
+  "title": "Vasquez & Stanek Ltd | Electrical"
+ },
+ "vasquezveterinary.com": {
+  "copyright_year": 2021,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [],
+  "response_ms": 869,
+  "since_year": 2001,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics"
+  ],
+  "text_length": 996,
+  "title": "Vasquez Veterinary LLC | Veterinary"
+ },
+ "vasquezwaste.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": true,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14663936303"
+  ],
+  "response_ms": 1057,
+  "since_year": 2021,
+  "socials": [
+   "facebook",
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "react"
+  ],
+  "text_length": 5800,
+  "title": "Vasquez Waste Inc | Waste"
+ },
+ "vasquezwhitfield.com": {
+  "copyright_year": 2019,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "family_owned"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [],
+  "response_ms": 2276,
+  "since_year": 2004,
+  "socials": [
+   "linkedin"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "wordpress"
+  ],
+  "text_length": 3774,
+  "title": "Vasquez & Whitfield Inc. | Electrical"
+ },
+ "whitfieldashworth.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": false,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+13982460910"
+  ],
+  "response_ms": 1180,
+  "since_year": 1991,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 6741,
+  "title": "Whitfield & Ashworth Co. | Marketing"
+ },
+ "whitfieldauto.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+14987173854"
+  ],
+  "response_ms": 2452,
+  "since_year": 2017,
+  "socials": [
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "react"
+  ],
+  "text_length": 828,
+  "title": "Whitfield Auto Inc | Auto Repair"
+ },
+ "whitfielddelgado.com": {
+  "copyright_year": 2026,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking",
+   "multi_location"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+13213234357"
+  ],
+  "response_ms": 1152,
+  "since_year": 2001,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 1646,
+  "title": "Whitfield & Delgado Ltd | Events"
+ },
+ "whitfielddigital.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+16682486423"
+  ],
+  "response_ms": 479,
+  "since_year": 1972,
+  "socials": [
+   "instagram",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "webflow"
+  ],
+  "text_length": 3810,
+  "title": "Whitfield Digital Co. | Marketing"
+ },
+ "whitfieldkellerman.com": {
+  "copyright_year": 2025,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "recurring_revenue"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12117525606"
+  ],
+  "response_ms": 707,
+  "since_year": 2017,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "webflow"
+  ],
+  "text_length": 2023,
+  "title": "Whitfield & Kellerman LLC | Landscaping"
+ },
+ "whitfieldokonkwo.com": {
+  "copyright_year": 2024,
+  "emails": [],
+  "has_blog": true,
+  "has_careers": false,
+  "has_cart": true,
+  "has_contact_form": true,
+  "https": true,
+  "markers": [
+   "booking"
+  ],
+  "meta_description": null,
+  "page_count_sampled": 2,
+  "phones": [
+   "+12982127567"
+  ],
+  "response_ms": 2315,
+  "since_year": 2013,
+  "socials": [
+   "facebook",
+   "instagram",
+   "linkedin",
+   "youtube"
+  ],
+  "status": "ok",
+  "tech": [
+   "google_analytics",
+   "hubspot",
+   "shopify"
+  ],
+  "text_length": 1256,
+  "title": "Whitfield & Okonkwo Co. | Logistics"
+ },
+ "whitfieldrenner.com": {
+  "status": "unreachable"
+ },
+ "whitfieldtoussaint.com": {
+  "status": "unreachable"
+ },
+ "whitfieldvasquez.com": {
+  "copyright_year": 2018,
+  "emails": [],
+  "has_blog": false,
+  "has_careers": false,
+  "has_cart": false,
+  "has_contact_form": false,
+  "https": true,
+  "markers": [],
+  "meta_description": null,
+  "page_count_sampled": 1,
+  "phones": [
+   "+18607306627"
+  ],
+  "response_ms": 1627,
+  "since_year": null,
+  "socials": [
+   "facebook"
+  ],
+  "status": "ok",
+  "tech": [
+   "wordpress"
+  ],
+  "text_length": 2979,
+  "title": "Whitfield & Vasquez Inc | Pest Control"
+ }
+}

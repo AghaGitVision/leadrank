@@ -1,0 +1,38 @@
+# Local, full-stack demo. Mirrors production topology with lightweight
+# substitutes: Postgres for Postgres, Redis for Redis, no Cloud Run/Vercel.
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: leadrank
+      POSTGRES_PASSWORD: leadrank
+      POSTGRES_DB: leadrank
+    ports: ["5432:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+
+  api:
+    build: ./backend
+    depends_on: [postgres, redis]
+    environment:
+      LEADRANK_DATABASE_URL: postgresql+psycopg://leadrank:leadrank@postgres:5432/leadrank
+      LEADRANK_REDIS_URL: redis://redis:6379
+      LEADRANK_SCAN_MODE: offline
+      LEADRANK_CORS_ORIGINS: http://localhost:3000
+      PORT: 8080
+    ports: ["8000:8080"]
+
+  web:
+    build: ./frontend
+    depends_on: [api]
+    environment:
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
+    ports: ["3000:3000"]
+
+volumes:
+  pgdata:
