@@ -78,6 +78,9 @@ export default function TriagePage({ params }: { params: { runId: string } }) {
     return () => {
       cancelled = true;
     };
+    // Intentionally keyed on the id, not the whole lead object — refetching
+    // explain data on every unrelated re-render would thrash the network.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [current?.id]);
 
   const flash = (msg: string) => {

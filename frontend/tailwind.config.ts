@@ -14,7 +14,10 @@ const config: Config = {
         primary: { DEFAULT: "#35B6E8", soft: "#1B5C77" },
         band: { a: "#3FBF8F", b: "#5BA8D6", c: "#C9A227", d: "#C0576B" },
       },
-      fontFamily: { sans: ["Inter", "system-ui", "sans-serif"] },
+      fontFamily: {
+        sans: ["var(--font-geist-sans)", "system-ui", "sans-serif"],
+        mono: ["var(--font-geist-mono)", "ui-monospace", "monospace"],
+      },
       fontVariantNumeric: { tabular: "tabular-nums" },
     },
   },

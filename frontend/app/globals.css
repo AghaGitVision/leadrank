@@ -10,8 +10,9 @@ html, body {
   font-feature-settings: "cv05", "cv11";
 }
 
-/* Scores sit in a column and must line up; everything numeric is tabular. */
-.num { font-variant-numeric: tabular-nums; }
+/* Scores sit in a column and must line up; everything numeric is tabular and
+   set in the mono face so digit widths are identical across the whole app. */
+.num { font-family: var(--font-geist-mono), ui-monospace, monospace; font-variant-numeric: tabular-nums; }
 
 *:focus-visible {
   outline: 2px solid #35B6E8;
