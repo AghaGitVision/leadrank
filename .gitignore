@@ -14,3 +14,4 @@ frontend/.env.local
 .DS_Store
 backend/demo_export.csv
 backend/.venv/
+.claude/

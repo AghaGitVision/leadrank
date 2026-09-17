@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { use, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   API_BASE,
   Explain,
@@ -15,8 +15,8 @@ import { BandChip, ConfidenceBar, QuadrantGrid, Waterfall } from "@/components/E
 
 const BANDS = ["A", "B", "C", "D"];
 
-export default function TriagePage({ params }: { params: { runId: string } }) {
-  const { runId } = params;
+export default function TriagePage({ params }: { params: Promise<{ runId: string }> }) {
+  const { runId } = use(params);
 
   const [run, setRun] = useState<Run | null>(null);
   const [leads, setLeads] = useState<Lead[]>([]);
@@ -63,16 +63,25 @@ export default function TriagePage({ params }: { params: { runId: string } }) {
   }, [runId, bands, quadrant, state]);
 
   useEffect(() => {
+    // Fetching from the server on a status transition, not adjusting local
+    // state to match a prop — loadLeads only calls setState from its own
+    // async response handler, never synchronously here.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (run?.status === "complete") loadLeads();
   }, [run?.status, loadLeads]);
 
   const current = leads[cursor];
 
+  // Clear stale explain data synchronously the moment the selection changes,
+  // so the previous lead's waterfall never flashes under the new one.
+  const [syncedLeadId, setSyncedLeadId] = useState<string | undefined>(current?.id);
+  if (current?.id !== syncedLeadId) {
+    setSyncedLeadId(current?.id);
+    setDetail(null);
+  }
+
   useEffect(() => {
-    if (!current) {
-      setDetail(null);
-      return;
-    }
+    if (!current) return;
     let cancelled = false;
     api.explain(current.id).then((d) => !cancelled && setDetail(d));
     return () => {

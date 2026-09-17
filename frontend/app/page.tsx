@@ -30,13 +30,16 @@ export default function SetupPage() {
 
   const modeProfiles = useMemo(() => profiles.filter((p) => p.mode === mode), [profiles, mode]);
 
-  useEffect(() => {
+  // Reset the selected profile whenever the available list changes (mode toggle,
+  // or the initial profiles/schema load) — computed during render, not in an
+  // effect, so switching modes doesn't cost an extra render pass.
+  const [syncedModeProfiles, setSyncedModeProfiles] = useState(modeProfiles);
+  if (modeProfiles !== syncedModeProfiles) {
+    setSyncedModeProfiles(modeProfiles);
     const first = modeProfiles[0];
-    if (first) {
-      setProfileId(first.id);
-      setWeights(first.weights);
-    }
-  }, [modeProfiles]);
+    setProfileId(first?.id ?? "");
+    setWeights(first?.weights ?? {});
+  }
 
   const dimensions = schema?.[mode]?.dimensions ?? [];
   const weightTotal = Object.values(weights).reduce((a, b) => a + b, 0) || 1;
