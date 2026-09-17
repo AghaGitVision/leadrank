@@ -1,5 +1,11 @@
 # LeadRank
 
+[![CI](https://github.com/AghaGitVision/leadrank/actions/workflows/ci.yml/badge.svg)](https://github.com/AghaGitVision/leadrank/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](backend/requirements.txt)
+[![Next.js 14](https://img.shields.io/badge/next.js-14-black.svg)](frontend/package.json)
+[![Conventional Commits](https://img.shields.io/badge/commits-conventional-fe5196.svg)](https://conventionalcommits.org)
+
 **A qualification layer for scraped lead lists.** Turn a CSV export into a
 ranked, explained, decision-ready shortlist — before you spend a credit
 enriching a company that was never a fit.
@@ -164,3 +170,7 @@ docs/
   queue so a run survives a Cloud Run instance being recycled mid-scan.
 - Scheduled rescans (not just on-demand) so the "what changed" panel becomes a
   standing watchlist rather than something triggered manually.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
