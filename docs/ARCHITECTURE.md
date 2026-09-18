@@ -121,8 +121,14 @@ read, not a re-fetch.
 
 ## API surface
 
-Full route list in `app/api/`. The three worth explaining:
+Full route list in `app/api/`. The four worth explaining:
 
+- **`POST /runs/search`** takes the same `LeadSource` protocol `POST /runs`
+  does, but backs it with `SaaSquatchSource` instead of `CsvSource` — search
+  parameters in, a `Run` scored through the identical dedupe/scan/score
+  pipeline out. Gated on `LEADRANK_SAASQUATCH_API_KEY`: unset, it returns 400
+  instead of a silent no-op. `tests/test_api.py` proves the pipeline wiring
+  with a mocked `fetch()`, since no live key ships with this submission.
 - **`GET /runs/{id}/events`** is a Server-Sent Events stream, not a polling
   endpoint. The client keeps one open connection while a run is scanning;
   the server pushes progress on any state change. Chosen over WebSockets
@@ -140,19 +146,23 @@ Full route list in `app/api/`. The three worth explaining:
 
 ## CI/CD
 
+`.github/workflows/ci.yml` runs on every push and PR to `main`, as three
+independent jobs so a frontend failure never blocks a backend result and
+vice versa:
+
 ```
-push to main
+push / PR to main
   → GitHub Actions
-    → ruff + eslint (lint)
-    → pytest (backend), next build (frontend type-check)
-    → build & push container (backend) → Cloud Run deploy
-    → Vercel deploy (frontend, via Vercel's GitHub integration)
+    ├─ backend-tests   : pip install -r requirements.txt → pytest tests/ -v
+    ├─ frontend-build  : npm ci → eslint . → next build (type-check included)
+    └─ commitlint      : commitlint --from <base> --to HEAD (Conventional Commits)
 ```
 
-No workflow file is included in this submission's time budget, but the
-pipeline above is the one to write first — lint and test gates before any
-deploy step, one job per concern so a frontend type error doesn't block a
-backend deploy and vice versa.
+Not yet wired: a Python lint gate (no `ruff` job today — only pytest runs on
+the backend), and the deploy half of the pipeline — build & push container →
+Cloud Run deploy, and a Vercel deploy via its GitHub integration. Those are
+the next two jobs to add, gated behind the three above passing, once a real
+target environment exists to deploy to.
 
 ## Observability
 

@@ -46,11 +46,11 @@ writeup and the spec's §4 for the full scoring design.
 | **Signal scanner** | One polite HTTP pass per domain — robots.txt respected, rate limited, ≤3 requests per host — extracting tech stack, contact info, freshness, and copy markers. Ships with an **offline fixture mode** so the demo and CI run with zero network access |
 | **Scoring engine** | Deterministic, additive, fully inspectable. Score and confidence are separate axes — never multiplied together — which produces a "spend a credit here" quadrant that maps directly onto SaaSquatch's own revenue model |
 | **Explanation** | Every score has a signal-by-signal waterfall: what it gained, what it left on the table, and what was never observed at all |
-| **Triage workspace** | A ranked queue with full keyboard review (`J`/`K` move, `A` accept, `X` reject, `E` enrich, `U` undo) — reviewing 50 leads without touching the mouse |
+| **Triage workspace** | A ranked queue with full keyboard review (`J`/`K` move, `A` accept, `X` reject, `E` enrich, `U` undo) for reviewing 50 leads without touching the mouse, plus mouse-driven multi-select for bulk accept/reject. Undo walks the append-only decision log newest-first, so it restores whichever action — accept or reject — actually happened last |
 | **Export** | Accepted leads only, with score/band/confidence and the top-3 reasons as columns, mapped to HubSpot or Salesforce field names |
 | **Weight learning** | Proposes new dimension weights from the user's own accept/reject decisions, gated on sample size, bounded per pass, shown as evidence — never silently applied |
 | **Change monitoring** | Re-scanning a run's domains and diffing against the last snapshot surfaces exactly the events that matter: a careers page appearing (budget moved), "acquired by" copy appearing (target is gone) |
-| **Source adapter seam** | `app/core/sources.py` defines `LeadSource` as a protocol with a CSV implementation and a `SaaSquatchSource` stub — the integration point for scoring at search time instead of after export |
+| **Source adapter seam** | `app/core/sources.py` defines `LeadSource` as a protocol; `execute_run` runs any implementation through the identical dedupe/scan/score pipeline. `CsvSource` backs the upload flow; `SaaSquatchSource` is wired through `POST /api/v1/runs/search` — scoring at search time instead of after export, gated on `LEADRANK_SAASQUATCH_API_KEY` (unset in this submission, so the route returns 400 rather than silently no-op'ing; a mocked test in `test_api.py` proves the pipeline wiring without a live key) |
 
 ## Quick start
 
@@ -105,10 +105,14 @@ cd backend
 python -m pytest tests/ -v
 ```
 
-22 tests, no network required — they cover the scoring engine's determinism,
-the buy/sell inversion, confidence-vs-score separation, dedupe merge behavior,
-email validation edge cases, the scanner's HTML parsing, and the bounds on the
-weight-learning loop.
+35 tests, no network required — `test_core.py` covers the scoring engine's
+determinism, the buy/sell inversion, confidence-vs-score separation, dedupe
+merge behavior, email validation edge cases, the scanner's HTML parsing, and
+the bounds on the weight-learning loop; `test_api.py` drives the FastAPI app
+itself end to end over real HTTP — upload, background scoring, triage
+(single + bulk review + history-correct undo), explain, rescore, CRM export,
+suppression, the learning gate, and a mocked `SaaSquatchSource` run —
+against a throwaway SQLite database.
 
 ## Repository layout
 
@@ -140,8 +144,8 @@ docs/
 | Criterion | Where it shows up |
 |---|---|
 | **Business use case (10)** | Dual-mode design reflects that SaaSquatch serves both sellers and searchers; the score/confidence split produces exactly the "which leads justify a credit" list, which strengthens the credit-based revenue model rather than competing with it |
-| **UX/UI (10)** | 30-second mode + profile setup, auto-mapped column detection, full keyboard triage, two-click export |
-| **Technicality (10)** | Dedup with provenance-aware merging, four-state email validation, robots-respecting concurrent scanner, signal-level explainability, deterministic + replayable scoring, bounded weight learning from real usage |
+| **UX/UI (10)** | 30-second mode + profile setup, auto-mapped column detection, full keyboard triage plus mouse-driven multi-select bulk accept/reject, two-click export |
+| **Technicality (10)** | Dedup with provenance-aware merging, four-state email validation, robots-respecting concurrent scanner, signal-level explainability, deterministic + replayable scoring, bounded weight learning from real usage, a second `LeadSource` (SaaSquatch search-time scoring) proven through the same pipeline as CSV — plus 34 tests spanning both the core functions and the live API |
 | **Design (5)** | Native to SaaSquatch's own dark navy/cyan visual system rather than a bolted-on prototype; color reserved for band chips and the waterfall, never used as a row background |
 | **Other (5)** | Ethical sourcing built in (robots.txt, rate limiting, suppression list, CAN-SPAM/GDPR export note), change monitoring turns a static export into a watchlist, honest architecture doc naming the production targets and what would change at scale |
 
@@ -163,9 +167,10 @@ docs/
 
 ## What's next (past this submission)
 
-- Score at search time via `SaaSquatchSource`, instead of scoring a post-export
-  CSV — ranking would then inform which rows are worth a credit *before* one
-  is spent, not just after.
+- Credential `SaaSquatchSource` with a live `LEADRANK_SAASQUATCH_API_KEY` — the
+  route (`POST /api/v1/runs/search`) and pipeline wiring already exist and are
+  tested with a mocked fetch; only a real key is missing. Once live, ranking
+  informs which rows are worth a credit *before* one is spent, not just after.
 - Move background scanning off in-process `BackgroundTasks` onto an ARQ/Redis
   queue so a run survives a Cloud Run instance being recycled mid-scan.
 - Scheduled rescans (not just on-demand) so the "what changed" panel becomes a
