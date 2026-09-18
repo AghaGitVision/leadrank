@@ -8,13 +8,15 @@ from fastapi.responses import PlainTextResponse, StreamingResponse
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
+from ..config import get_settings
 from ..core import ingest
 from ..core.exporter import to_csv
 from ..core.pipeline import apply_score, attach_narratives, execute_run
 from ..core.scoring import normalize_weights
+from ..core.sources import CsvSource, LeadSource, SaaSquatchSource
 from ..db import SessionLocal, get_db
 from ..models import Lead, LeadSignal, Run, ScoringProfile
-from ..schemas import RescoreIn, RunOut
+from ..schemas import RescoreIn, RunOut, SearchRunIn
 
 router = APIRouter(prefix="/api/v1/runs", tags=["runs"])
 
@@ -31,13 +33,13 @@ async def preview_columns(file: UploadFile = File(...)):
     }
 
 
-def _run_pipeline(run_id: str, content: str, mapping: dict | None, check_mx: bool) -> None:
+def _run_pipeline(run_id: str, source: LeadSource, fetch_params: dict) -> None:
     db = SessionLocal()
     try:
         run = db.get(Run, run_id)
         if run is None:
             return
-        asyncio.run(execute_run(db, run, content, mapping, check_mx=check_mx))
+        asyncio.run(execute_run(db, run, source, **fetch_params))
     except Exception as exc:  # surface failures in the run record, never swallow
         run = db.get(Run, run_id)
         if run is not None:
@@ -68,7 +70,46 @@ async def create_run(
     db.add(run)
     db.commit()
 
-    background.add_task(_run_pipeline, run.id, content, parsed_mapping, check_mx)
+    source = CsvSource(content, parsed_mapping, check_mx)
+    background.add_task(_run_pipeline, run.id, source, {})
+    return run
+
+
+@router.post("/search", response_model=RunOut, status_code=201)
+async def create_run_from_search(
+    payload: SearchRunIn,
+    background: BackgroundTasks,
+    db: Session = Depends(get_db),
+):
+    """Scores a SaaSquatch search result set through the same pipeline a CSV
+    upload uses — the search-time path sketched in `core/sources.py`, wired
+    up rather than left as a stub."""
+    profile = db.get(ScoringProfile, payload.profile_id)
+    if profile is None:
+        raise HTTPException(404, "profile not found")
+
+    settings = get_settings()
+    if not settings.saasquatch_api_key:
+        raise HTTPException(
+            400,
+            "SaaSquatch search-time scoring requires LEADRANK_SAASQUATCH_API_KEY to be "
+            "set — this integration seam is wired but uncredentialed in this environment.",
+        )
+
+    fetch_params = {
+        "industry": payload.industry,
+        "country": payload.country,
+        "min_employees": payload.min_employees,
+        "max_employees": payload.max_employees,
+        "limit": payload.limit,
+    }
+    label = payload.industry or payload.country or "search"
+    run = Run(profile_id=payload.profile_id, filename=f"saasquatch:{label}", status="pending")
+    db.add(run)
+    db.commit()
+
+    source = SaaSquatchSource(api_key=settings.saasquatch_api_key)
+    background.add_task(_run_pipeline, run.id, source, fetch_params)
     return run
 
 

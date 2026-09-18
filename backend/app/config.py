@@ -31,6 +31,10 @@ class Settings(BaseSettings):
     anthropic_api_key: str = ""
     narrative_model: str = "claude-sonnet-4-6"
 
+    # optional: search-time scoring via SaaSquatchSource (see core/sources.py).
+    # Blank => POST /api/v1/runs/search returns 400 rather than silently no-op'ing.
+    saasquatch_api_key: str = ""
+
     # learned weights are only applied once this many decisions exist in a run
     learning_min_decisions: int = 15
     learning_max_shift: float = 0.35

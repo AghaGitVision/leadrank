@@ -2,12 +2,12 @@
 
 CSV is the v1 path because it works today against SaaSquatch's existing export.
 The point of this module is that scoring never learns where a lead came from:
-add an adapter, and search-time scoring inside the host product becomes a
-routing change rather than a rewrite.
+`execute_run` (see `pipeline.py`) takes any `LeadSource`, so both adapters run
+through the identical dedupe -> scan -> score pipeline.
 
-`SaaSquatchSource` is written against the shape of their documented export and
-is inert without credentials — it is the integration seam, not a claim to have
-integrated.
+`SaaSquatchSource` is wired through `POST /api/v1/runs/search`
+(`app/api/runs.py`) — it stays inert without `LEADRANK_SAASQUATCH_API_KEY` set,
+in which case that endpoint returns 400 rather than silently no-op'ing.
 """
 
 from __future__ import annotations
@@ -33,9 +33,11 @@ class CsvSource:
         self.content = content
         self.mapping = mapping
         self.check_mx = check_mx
+        self.last_unmapped_columns: list[str] = []
 
     async def fetch(self, **params) -> list[dict]:
-        rows, _ = parse_rows(self.content, self.mapping, check_mx=self.check_mx)
+        rows, report = parse_rows(self.content, self.mapping, check_mx=self.check_mx)
+        self.last_unmapped_columns = report.unmapped
         return rows
 
 

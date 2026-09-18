@@ -17,11 +17,11 @@ from ..models import Alert, Lead, LeadSignal, Run, ScanSnapshot, ScoringProfile,
 from .cache import scan_cache
 from .dedupe import dedupe
 from .features import build_features
-from .ingest import parse_rows
 from .monitor import diff_snapshots
 from .narrative import deterministic_summary, llm_summary
 from .scanner import scanner
 from .scoring import score_lead
+from .sources import LeadSource
 
 PROGRESS_INGEST = 0.15
 PROGRESS_SCAN_END = 0.80
@@ -84,15 +84,18 @@ def apply_score(db: Session, lead: Lead, profile: ScoringProfile, *, narrative: 
                         "_dimension_scores": result.dimension_scores}
 
 
-async def execute_run(db: Session, run: Run, content: str, mapping: dict | None,
-                      *, check_mx: bool = False) -> None:
+async def execute_run(db: Session, run: Run, source: LeadSource, **fetch_params) -> None:
+    """Runs any `LeadSource` (a CSV upload, a SaaSquatch search, or a future
+    adapter) through the same dedupe -> suppress -> scan -> score pipeline.
+    Scoring never learns where a row came from."""
     profile = db.get(ScoringProfile, run.profile_id)
     assert profile is not None
 
     run.status = "ingesting"
     db.commit()
 
-    rows, report = parse_rows(content, mapping, check_mx=check_mx)
+    rows = await source.fetch(**fetch_params)
+    unmapped_columns = getattr(source, "last_unmapped_columns", [])
     rows, dd_report = dedupe(rows)
 
     suppressed_domains = {s.domain for s in db.scalars(select(SuppressionEntry)).all()}
@@ -186,7 +189,8 @@ async def execute_run(db: Session, run: Run, content: str, mapping: dict | None,
         "fuzzy_merges": dd_report.fuzzy_merges,
         "merge_candidates": len(dd_report.candidates),
         "suppressed": suppressed,
-        "unmapped_columns": report.unmapped,
+        "unmapped_columns": unmapped_columns,
+        "source": source.name,
         "bands": bands,
         "quadrants": quadrants,
         "scan_statuses": scan_statuses,

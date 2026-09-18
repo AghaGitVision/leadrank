@@ -107,6 +107,19 @@ class RescoreIn(BaseModel):
     targeting: dict | None = None
 
 
+class SearchRunIn(BaseModel):
+    """Scores a SaaSquatch search result set directly — the search-time path
+    that lets ranking inform which rows are worth a credit before one is
+    spent, instead of after a CSV export."""
+
+    profile_id: str
+    industry: str | None = None
+    country: str | None = None
+    min_employees: int | None = None
+    max_employees: int | None = None
+    limit: int = 100
+
+
 class AlertOut(BaseModel):
     id: str
     domain: str
