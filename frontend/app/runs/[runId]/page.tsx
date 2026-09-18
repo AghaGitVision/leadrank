@@ -34,6 +34,7 @@ export default function TriagePage({ params }: { params: Promise<{ runId: string
   } | null>(null);
   const [alerts, setAlerts] = useState<{ id: string; kind: string; detail: string; severity: string }[]>([]);
   const [toast, setToast] = useState<string | null>(null);
+  const [selected, setSelected] = useState<Set<string>>(new Set());
   const listRef = useRef<HTMLDivElement>(null);
 
   // --- run progress over SSE ------------------------------------------------
@@ -60,6 +61,7 @@ export default function TriagePage({ params }: { params: Promise<{ runId: string
     setLeads(res.items);
     setTotal(res.total);
     setCursor(0);
+    setSelected(new Set());
   }, [runId, bands, quadrant, state]);
 
   useEffect(() => {
@@ -110,13 +112,35 @@ export default function TriagePage({ params }: { params: Promise<{ runId: string
   );
 
   const undo = useCallback(async () => {
-    const res = await api.leads(runId, { limit: 1, state: "accepted", sort: "score" });
-    const last = res.items[0];
-    if (!last) return flash("Nothing to undo");
-    await api.review(last.id, "pending");
+    const res = await api.undoLast(runId);
+    if (!res.lead_id) return flash("Nothing to undo");
     await loadLeads();
-    flash("Restored to the queue");
+    flash(`Restored to the queue (was ${res.restored_from})`);
   }, [runId, loadLeads]);
+
+  const toggleSelected = useCallback((id: string) => {
+    setSelected((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  }, []);
+
+  const toggleSelectAll = useCallback(() => {
+    setSelected((prev) => (prev.size === leads.length ? new Set() : new Set(leads.map((l) => l.id))));
+  }, [leads]);
+
+  const bulkDecide = useCallback(
+    async (nextState: "accepted" | "rejected") => {
+      const ids = Array.from(selected);
+      if (ids.length === 0) return;
+      await api.bulkReview(ids, nextState);
+      await loadLeads();
+      flash(`${nextState === "accepted" ? "Accepted" : "Rejected"} ${ids.length} leads`);
+    },
+    [selected, loadLeads],
+  );
 
   // --- keyboard triage ------------------------------------------------------
   useEffect(() => {
@@ -311,36 +335,69 @@ export default function TriagePage({ params }: { params: Promise<{ runId: string
       )}
 
       <div className="grid gap-4 lg:grid-cols-[minmax(320px,420px)_1fr]">
-        <div
-          ref={listRef}
-          className="max-h-[70vh] overflow-y-auto rounded border border-line bg-surface-1"
-          role="listbox"
-          aria-label="Lead queue"
-        >
-          {leads.length === 0 ? (
-            <p className="p-6 text-sm text-lo">
-              Nothing left in this view. Widen the band filter, or switch the review filter to see
-              what you have accepted.
-            </p>
-          ) : (
-            leads.map((l, i) => (
-              <button
-                key={l.id}
-                data-index={i}
-                onClick={() => setCursor(i)}
-                aria-selected={i === cursor}
-                role="option"
-                className={`flex w-full items-center gap-3 border-b border-line/60 px-3 py-2 text-left ${
-                  i === cursor ? "bg-surface-2" : "hover:bg-surface-2/60"
-                }`}
-              >
-                <span className="num w-10 shrink-0 text-right text-sm text-hi">{l.score.toFixed(0)}</span>
-                <BandChip band={l.band} />
-                <span className="flex-1 truncate text-sm text-hi">{l.company_name}</span>
-                <span className="w-20 shrink-0 truncate text-[11px] text-lo">{l.city ?? "—"}</span>
-              </button>
-            ))
-          )}
+        <div className="flex max-h-[70vh] flex-col overflow-hidden rounded border border-line bg-surface-1">
+          <div className="flex shrink-0 items-center justify-between gap-2 border-b border-line/60 px-3 py-1.5 text-[11px] text-lo">
+            <label className="flex items-center gap-1.5">
+              <input
+                type="checkbox"
+                checked={leads.length > 0 && selected.size === leads.length}
+                onChange={toggleSelectAll}
+                disabled={leads.length === 0}
+                className="h-3.5 w-3.5 accent-primary"
+                aria-label="Select all visible leads"
+              />
+              Select all
+            </label>
+            {selected.size > 0 && (
+              <div className="flex items-center gap-3">
+                <span className="text-hi">{selected.size} selected</span>
+                <button onClick={() => bulkDecide("accepted")} className="text-primary hover:underline">
+                  Accept
+                </button>
+                <button onClick={() => bulkDecide("rejected")} className="hover:text-hi hover:underline">
+                  Reject
+                </button>
+                <button onClick={() => setSelected(new Set())} className="hover:text-hi hover:underline">
+                  Clear
+                </button>
+              </div>
+            )}
+          </div>
+
+          <div ref={listRef} className="overflow-y-auto" role="listbox" aria-label="Lead queue">
+            {leads.length === 0 ? (
+              <p className="p-6 text-sm text-lo">
+                Nothing left in this view. Widen the band filter, or switch the review filter to see
+                what you have accepted.
+              </p>
+            ) : (
+              leads.map((l, i) => (
+                <div
+                  key={l.id}
+                  data-index={i}
+                  aria-selected={i === cursor}
+                  role="option"
+                  className={`flex w-full items-center gap-3 border-b border-line/60 px-3 py-2 ${
+                    i === cursor ? "bg-surface-2" : "hover:bg-surface-2/60"
+                  }`}
+                >
+                  <input
+                    type="checkbox"
+                    checked={selected.has(l.id)}
+                    onChange={() => toggleSelected(l.id)}
+                    className="h-3.5 w-3.5 shrink-0 accent-primary"
+                    aria-label={`Select ${l.company_name}`}
+                  />
+                  <button onClick={() => setCursor(i)} className="flex flex-1 items-center gap-3 text-left">
+                    <span className="num w-10 shrink-0 text-right text-sm text-hi">{l.score.toFixed(0)}</span>
+                    <BandChip band={l.band} />
+                    <span className="flex-1 truncate text-sm text-hi">{l.company_name}</span>
+                    <span className="w-20 shrink-0 truncate text-[11px] text-lo">{l.city ?? "—"}</span>
+                  </button>
+                </div>
+              ))
+            )}
+          </div>
         </div>
 
         <div className="rounded border border-line bg-surface-1 p-5">

@@ -174,6 +174,18 @@ export const api = {
       body: JSON.stringify({ review_state: state }),
     }),
 
+  bulkReview: (ids: string[], state: string) =>
+    request<{ updated: number }>("/api/v1/leads/bulk", {
+      method: "POST",
+      body: JSON.stringify({ ids, review_state: state }),
+    }),
+
+  undoLast: (runId: string) =>
+    request<{ lead_id: string | null; restored_from: string | null }>(
+      `/api/v1/runs/${runId}/undo`,
+      { method: "POST" },
+    ),
+
   enrich: (leadId: string) =>
     request<Lead>(`/api/v1/leads/${leadId}/enrich`, { method: "POST" }),
 

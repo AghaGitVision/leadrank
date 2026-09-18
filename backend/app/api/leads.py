@@ -115,6 +115,26 @@ def bulk_review(payload: BulkReviewIn, db: Session = Depends(get_db)):
     return {"updated": len(leads)}
 
 
+@router.post("/runs/{run_id}/undo")
+def undo_last_decision(run_id: str, db: Session = Depends(get_db)):
+    """Restores the most recent accept OR reject in this run back to pending
+    — not just the most recent accept. Walks the append-only decision log
+    newest-first and restores the first one whose lead hasn't already been
+    reverted (or superseded by a later decision on that same lead), so
+    repeated undo presses walk back through real history instead of only
+    ever touching accepted leads."""
+    decisions = db.scalars(
+        select(Decision).where(Decision.run_id == run_id).order_by(Decision.created_at.desc())
+    ).all()
+    for decision in decisions:
+        lead = db.get(Lead, decision.lead_id)
+        if lead is not None and lead.review_state == decision.state:
+            lead.review_state = "pending"
+            db.commit()
+            return {"lead_id": lead.id, "restored_from": decision.state}
+    return {"lead_id": None, "restored_from": None}
+
+
 @router.post("/leads/{lead_id}/enrich", response_model=LeadOut)
 def enrich_lead(lead_id: str, db: Session = Depends(get_db)):
     """Marks the credit spend. In production this calls the host enrichment
